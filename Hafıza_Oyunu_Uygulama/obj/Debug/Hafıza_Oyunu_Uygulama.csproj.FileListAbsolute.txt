@@ -1,0 +1,40 @@
+c:\users\ba\documents\visual studio 2013\Projects\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.exe
+c:\users\ba\documents\visual studio 2013\Projects\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.exe
+c:\users\ba\documents\visual studio 2013\Projects\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Form2.resources
+c:\users\ba\documents\visual studio 2013\Projects\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\Yiwit\Desktop\Yeni klasör (12)\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.exe.config
+C:\Users\Yiwit\Desktop\Yeni klasör (12)\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.exe
+C:\Users\Yiwit\Desktop\Yeni klasör (12)\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.pdb
+C:\Users\Yiwit\Desktop\Yeni klasör (12)\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.exe
+C:\Users\Yiwit\Desktop\Yeni klasör (12)\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.pdb
+C:\Users\Yiwit\Desktop\Yeni klasör (12)\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\Yiwit\Desktop\Yeni klasör (12)\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Form1.resources
+C:\Users\Yiwit\Desktop\Yeni klasör (12)\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Form2.resources
+C:\Users\Yiwit\Desktop\Yeni klasör (12)\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Properties.Resources.resources
+C:\Users\Yiwit\Desktop\Yeni klasör (12)\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.csproj.GenerateResource.Cache
+C:\Users\BA\Desktop\İnternetVeriTabanı\New folder\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.exe.config
+C:\Users\BA\Desktop\İnternetVeriTabanı\New folder\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.exe
+C:\Users\BA\Desktop\İnternetVeriTabanı\New folder\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.pdb
+C:\Users\BA\Desktop\İnternetVeriTabanı\New folder\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.exe
+C:\Users\BA\Desktop\İnternetVeriTabanı\New folder\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.pdb
+C:\Users\BA\Desktop\İnternetVeriTabanı\New folder\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\İnternetVeriTabanı\New folder\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Form1.resources
+C:\Users\BA\Desktop\İnternetVeriTabanı\New folder\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Form2.resources
+C:\Users\BA\Desktop\İnternetVeriTabanı\New folder\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Properties.Resources.resources
+C:\Users\BA\Desktop\İnternetVeriTabanı\New folder\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.csproj.GenerateResource.Cache
+C:\Users\Yiwitt\Desktop\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.exe.config
+C:\Users\Yiwitt\Desktop\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.exe
+C:\Users\Yiwitt\Desktop\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.pdb
+C:\Users\Yiwitt\Desktop\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.exe
+C:\Users\Yiwitt\Desktop\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\bin\Debug\Hafıza_Oyunu_Uygulama.pdb
+C:\Users\Yiwitt\Desktop\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\Yiwitt\Desktop\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Form1.resources
+C:\Users\Yiwitt\Desktop\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Form2.resources
+C:\Users\Yiwitt\Desktop\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.Properties.Resources.resources
+C:\Users\Yiwitt\Desktop\Hafıza_Oyunu_Uygulama\Hafıza_Oyunu_Uygulama\obj\Debug\Hafıza_Oyunu_Uygulama.csproj.GenerateResource.Cache

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Oyuncular>
+  <Oyuncu ID="1">
+    <KullanıcıAdı>Gökhan</KullanıcıAdı>
+    <Puan>1000</Puan>
+  </Oyuncu>
+  <Oyuncu ID="2">
+    <KullanıcıAdı>ddddddd</KullanıcıAdı>
+    <Puan>6000</Puan>
+  </Oyuncu>
+  <Oyuncu ID="3">
+    <KullanıcıAdı>bilal</KullanıcıAdı>
+    <Puan>6000</Puan>
+  </Oyuncu>
+  <Oyuncu ID="4">
+    <KullanıcıAdı>Serkan</KullanıcıAdı>
+    <Puan>1500</Puan>
+  </Oyuncu>
+  <Oyuncular ID="5">
+    <KullanıcıAdı>dsfsdfsdf</KullanıcıAdı>
+    <Puan>780</Puan>
+  </Oyuncular>
+  <Oyuncular ID="6">
+    <KullanıcıAdı>yiğit</KullanıcıAdı>
+    <Puan>760</Puan>
+  </Oyuncular>
+  <Oyuncular ID="7">
+    <KullanıcıAdı>yiwit</KullanıcıAdı>
+    <Puan>740</Puan>
+  </Oyuncular>
+</Oyuncular>
